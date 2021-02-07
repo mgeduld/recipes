@@ -13,3 +13,7 @@
 [Fruity Steel Cut Oats](fruity-steel-cut-oatmeal.md)
 
 [Cauliflower Bisque](cauliflower-bisque.md)
+
+[Starch Buster](starch-buster.md)
+
+[Cranberry Orange Muffins](cranberry-orange-muffins.md)
