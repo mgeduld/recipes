@@ -19,3 +19,5 @@
 [Cranberry Orange Muffins](cranberry-orange-muffins.md)
 
 [Cauliflower Taco Meat](cauliflower-taco-meat.md)
+
+[Cashew Butter](cashew-butter.md)
