@@ -7,3 +7,5 @@
 [Tofu Chicken](tofu-chicken.md)
 
 [Quick Lemon Tahini Dressing](quick-lemon-tahini-dressing.md)
+
+[Spicy Thai Braised Kale and Tofu](spicy-thai-braised-kale-and-tofu.md)
