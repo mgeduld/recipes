@@ -1,6 +1,6 @@
 # Krock's Chili
 
-Source: (https://krocksinthekitchen.com/2019/09/01/recipe-brians-super-tasty-vegan-chili-plant-based-oil-free/)
+Source: https://krocksinthekitchen.com/2019/09/01/recipe-brians-super-tasty-vegan-chili-plant-based-oil-free/
 
 This is the best chili I've ever tasted. I tend to cut the recipe in half and just throw all the ingredients into the Instant Pot (on the Chili setting)
 
