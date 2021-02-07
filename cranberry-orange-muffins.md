@@ -33,4 +33,4 @@ Makes 12 large muffins or one loaf!
 ## Options:
 * Add in nuts/seeds
 * Swap cranberries for fresh berries or dried fruit
-Cinnamon, apple pie spice, or pumpkin pie spice are great additions
+* Cinnamon, apple pie spice, or pumpkin pie spice are great additions
