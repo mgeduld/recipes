@@ -9,3 +9,5 @@
 [Quick Lemon Tahini Dressing](quick-lemon-tahini-dressing.md)
 
 [Spicy Thai Braised Kale and Tofu](spicy-thai-braised-kale-and-tofu.md)
+
+[Fruity Steel Cut Oats](fruity-steel-cut-oatmeal)
