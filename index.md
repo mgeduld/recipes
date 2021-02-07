@@ -21,3 +21,5 @@
 [Cauliflower Taco Meat](cauliflower-taco-meat.md)
 
 [Cashew Butter](cashew-butter.md)
+
+[Hummus of the Earth](humus-of-the-earth.md)
