@@ -10,4 +10,4 @@
 
 [Spicy Thai Braised Kale and Tofu](spicy-thai-braised-kale-and-tofu.md)
 
-[Fruity Steel Cut Oats](fruity-steel-cut-oatmeal)
+[Fruity Steel Cut Oats](fruity-steel-cut-oatmeal.md)
