@@ -48,4 +48,6 @@
 
 [Mac-n-"cheese"](mac-n-cheese.md)
 
+[Potatoes and Pesto](potatoes-and-pesto.md)
+
 
