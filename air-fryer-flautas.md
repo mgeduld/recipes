@@ -15,7 +15,7 @@ This is a really easy, versatile recipe. It's extremely malleable and could incl
 * 1 tsp chipotle chili powder
 * 1 tbsp nutritional yeast
 
-There are all sorts of other things you could add: spinach, jalapeños, [taco meat](cauliflower-taco-meat.md) ...  
+There are all sorts of other things you could add: spinach, jalapeños, [taco "meat"](cauliflower-taco-meat.md) ...  
 
 ## Instructions
 1. In a bowl, mix together a drained can of black beans, a drained can of pinto beans, refried beans, and corn.  (I used beans with no salt added and oil-free refried beans, but you can use salt and oil if you want. It's a free country. For now.)
