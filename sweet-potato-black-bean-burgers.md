@@ -1,5 +1,7 @@
 # Sweet Potato Black Bean Burgers
 
+Source: [Eat to Live Quick and Easy Cookbook](https://www.amazon.com/Eat-Live-Quick-Easy-Cookbook/dp/0062684957/ref=sr_1_3?crid=18UHXMQVLMXU5&dchild=1&keywords=eat+to+live+cookbook&qid=1612807930&sprefix=eat+to+live+co%2Caps%2C158&sr=8-3)
+
 ## Ingredients
 * 1/3 cup raw cashews
 * 1/3 cup raw pecans
