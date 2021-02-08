@@ -52,3 +52,6 @@
 
 [Lebanese Lentils](lebanese-lentils.md)
 
+[Spicy Southwest Dressing](spicy-southwest-dressing.md)
+
+
