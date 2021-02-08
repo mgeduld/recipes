@@ -1,4 +1,4 @@
-# Krock's Chili
+# Best Ever Chili
 
 Source: https://krocksinthekitchen.com/2019/09/01/recipe-brians-super-tasty-vegan-chili-plant-based-oil-free/
 
