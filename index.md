@@ -31,3 +31,5 @@
 [Ranch Dressing](ranch-dressing.md)
 
 [Air Fryer Flautas](air-fryer-flautas.md)
+
+[Spicy Refried Beans](spicy-refried-beans.md)
