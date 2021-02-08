@@ -7,7 +7,7 @@ This is a really easy, versatile recipe. It's extremely malleable and could incl
 ## Ingredients
 * 1 can of black beans (no-salt)
 * 1 can of pinto beans (no-salt)
-* 1 can of refried beans (no-salt)
+* 1 can of refried beans (no-salt) or [the home-made version](spicy-refried-beans.md)
 * 1 package of frozen corn 
 * 1 tsp garlic powder
 * 1 tsp black pepper
