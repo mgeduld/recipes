@@ -134,4 +134,4 @@ Okay, here are the recipes. Check back! I'll be adding more ...
 
 [Buffalo Cauliflower](buffalo-cauliflower.md)
 
-[Acocado Toast](avocado-toast.md)
+[Avocado Toast](avocado-toast.md)
