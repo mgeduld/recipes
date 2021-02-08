@@ -50,4 +50,5 @@
 
 [Potatoes and Pesto](potatoes-and-pesto.md)
 
+[Lebanese Lentils](lebanese-lentils.md)
 
