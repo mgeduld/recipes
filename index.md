@@ -33,3 +33,7 @@
 [Air Fryer Flautas](air-fryer-flautas.md)
 
 [Spicy Refried Beans](spicy-refried-beans.md)
+
+[Vegetable Enchiladas](vegetable-enchiladas.md)
+
+
