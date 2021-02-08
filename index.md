@@ -54,7 +54,7 @@
 
 [Seasoned Popcorn](seasoned-popcorn.md)
 
-[Addictive Salad Dressings)(addictive-salad-dressings.md)
+[Addictive Salad Dressings](addictive-salad-dressings.md)
 
 [Carrot Hotdogs](carrot-hotdogs.md)
 
