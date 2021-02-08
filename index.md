@@ -34,6 +34,10 @@
 
 [Air Fryer Flautas](air-fryer-flautas.md)
 
+[Corn Chowder](corn-chowder.md)
+
+
+
 [Spicy Refried Beans](spicy-refried-beans.md)
 
 [Vegetable Enchiladas](vegetable-enchiladas.md)
