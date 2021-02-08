@@ -38,4 +38,7 @@
 
 [Apple Pie Fries](apple-pie-fries.md)
 
+[Chickpea "Tuna" Salad](chickpea-tuna-salad.md)
+
+
 
