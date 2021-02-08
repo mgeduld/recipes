@@ -25,3 +25,5 @@
 [Smoky Herb Crusted Tofu](smoky-herb-crusted-tofu.md)
 
 [Stuffing Balls](stuffing-balls.md)
+
+[Easy Bread](easy-bread.md)
