@@ -26,6 +26,8 @@
 
 [Stuffing Balls](stuffing-balls.md)
 
+[Chickpea Noodle Soup](chickpea-noodle-soup.md)
+
 [Easy Bread](easy-bread.md)
 
 [Ranch Dressing](ranch-dressing.md)
