@@ -1,4 +1,4 @@
-[Krock's Chili](krocks-chili.md)
+[Best Ever Chili](best-ever-chili.md)
 
 [Golden Milk Latte](golden-milk-latte.md)
 
