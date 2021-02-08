@@ -1,4 +1,4 @@
-# Hummus of the Earth from The Vegiterranean Diet
+# Best Ever Humus
 
 Source: https://www.youtube.com/watch?v=OrCyGDJaUfE&feature=youtu.be&t=291s
 
