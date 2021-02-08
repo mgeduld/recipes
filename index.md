@@ -21,3 +21,5 @@
 [Cashew Butter](cashew-butter.md)
 
 [Hummus of the Earth](humus-of-the-earth.md)
+
+[Smoky Herb Crusted Tofu](smoky-herb-crusted-tofu.md)
