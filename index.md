@@ -36,4 +36,6 @@
 
 [Vegetable Enchiladas](vegetable-enchiladas.md)
 
+[Apple Pie Fries](apple-pie-fries.md)
+
 
