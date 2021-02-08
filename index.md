@@ -44,3 +44,7 @@
 
 [Baked Apples with Cashew Cream](baked-apples-with-cashew-cream.md)
 
+[Quick Corn Stew](quick-corn-stew.md)
+
+
+
