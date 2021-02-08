@@ -1,4 +1,4 @@
-# Healthy Vegan Stuffing Balls
+# Stuffing Balls
 
 Source: https://www.youtube.com/watch?v=viXJnVmiAi0&list=PLLh0oIdfj5KO6_5DiGY-G2ljgL4m-mqMn&index=69&t=145s
 
