@@ -10,7 +10,7 @@ Source: https://www.plantbasedcooking.com/recipe/baked-apples-with-cashew-cream/
 * ½ cup water + ¼ cup water
 * ½ tsp Ceylon cinnamon
 * 1/3 cup walnuts chopped (or other of your favorite nuts)
-* ½ cup homemade granola or store-bought Engine 2 Diet brand
+* ½ cup [homemade granola](granola.md) or store-bought Engine 2 Diet brand
 
 ## Instructions
 1. Heat oven to 400°F.
