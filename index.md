@@ -18,29 +18,71 @@ If you want to learn why and how I got used to this diet, see [How a Vegas Magic
 
 Okay, here are the recipes. Check back! I'll be adding more ...
 
+## Main Courses
+
 [Marcus Burgers](marcus-burgers.md)
-
-[Best Ever Chili](best-ever-chili.md)
-
-[Cornbread](cornbread.md)
-
-[Golden Milk Latte](golden-milk-latte.md)
-
-[Tofu Chicken](tofu-chicken.md)
-
-[Quick Lemon Tahini Dressing](quick-lemon-tahini-dressing.md)
 
 [Spicy Thai Braised Kale and Tofu](spicy-thai-braised-kale-and-tofu.md)
 
-[Fruity Steel Cut Oats](fruity-steel-cut-oatmeal.md)
+[Starch Buster](starch-buster.md)
 
-[Chipotle Butternut Cheesy Sauce](chipotle-butternet-cheesy-sauce.md)
+[Air Fryer Flautas](air-fryer-flautas.md)
+
+[Sweet Potato Black Bean Burgers](sweet-potato-black-bean-burgers.md)
+
+[Easy Pad Thai](easy-pad-thai.md)
+
+[Pineapple Chickpea Tacos](pineapple-chickpea-tacos.md)
+
+[Carrot Hotdogs](carrot-hotdogs.md)
+
+[Instant Pot Lentils](instant-pot-lentils.md)
+
+[Baked Falafel](baked-falafel.md)
+
+[Vegetable Enchiladas](vegetable-enchiladas.md)
+
+[Chickpea "Tuna" Salad](chickpea-tuna-salad.md)
+
+[Mac-n-"cheese"](mac-n-cheese.md)
+
+[Potatoes and Pesto](potatoes-and-pesto.md)
+
+[Lebanese Lentils](lebanese-lentils.md)
+
+[California Burritos](california-burritos.md)
+
+[Sweet-potato Lasagna](sweet-potato-lasagna.md)
+
+[Chipotle Avocado and White Bean Wrap](chipotle-avocado-and-white-bean-wrap.md)
+
+[Fiesta Stuffer Wrap](fiesta-stuffer-wrap.md)
+
+[Chickpea Collard Wrap](chickpea-collard-wrap.md)
+
+[Veggie Wraps](veggie-wraps.md)
+
+[Sweet-potato Wraps](sweet-potato-wraps.md)
+
+[Tofu Meatballs](tofu-meatballs.md)
+
+## Soups and Stews
+
+[Best Ever Chili](best-ever-chili.md)
 
 [Cauliflower Bisque](cauliflower-bisque.md)
 
-[Starch Buster](starch-buster.md)
+[Chickpea Noodle Soup](chickpea-noodle-soup.md)
 
-[Cranberry Orange Muffins](cranberry-orange-muffins.md)
+[Corn Chowder](corn-chowder.md)
+
+[Quick Corn Stew](quick-corn-stew.md)
+
+[Sweet Potato and Fennel Stew](sweet-potato-and-fennel-stew.md)
+
+## Sides, Addatives, Snacks, etc.
+
+[Tofu Chicken](tofu-chicken.md)
 
 [Cauliflower Taco Meat](cauliflower-taco-meat.md)
 
@@ -52,90 +94,65 @@ Okay, here are the recipes. Check back! I'll be adding more ...
 
 [Stuffing Balls](stuffing-balls.md)
 
-[Chickpea Noodle Soup](chickpea-noodle-soup.md)
-
-[Easy Bread](easy-bread.md)
-
-[Ranch Dressing](ranch-dressing.md)
-
-[Air Fryer Flautas](air-fryer-flautas.md)
-
-[Sweet Potato Black Bean Burgers](sweet-potato-black-bean-burgers.md)
-
-[Easy Pad Thai](easy-pad-thai.md)
-
-[African Peanut Sauce](african-peanut-sauce.md)
-
-[Two-ingredient Pizza Crust](two-ingredient-pizza-crust.md)
-
-[Pineapple Chickpea Tacos](pineapple-chickpea-tacos.md)
-
-[Granola](granola.md)
-
-[Instant Pot Lentils](instant-pot-lentils.md)
-
-[Yummy Sauces](yummy-sauces.md)
-
-[Stir-fry Sauce](stir-fry-sauce.md)
-
 [Seasoned Popcorn](seasoned-popcorn.md)
 
-[Addictive Salad Dressings](addictive-salad-dressings.md)
-
-[Carrot Hotdogs](carrot-hotdogs.md)
-
-[Baked Falafel](baked-falafel.md)
-
-[Corn Chowder](corn-chowder.md)
-
 [Spicy Refried Beans](spicy-refried-beans.md)
-
-[Vegetable Enchiladas](vegetable-enchiladas.md)
-
-[Apple Pie Fries](apple-pie-fries.md)
-
-[Chickpea "Tuna" Salad](chickpea-tuna-salad.md)
-
-[Baked Apples with Cashew Cream](baked-apples-with-cashew-cream.md)
-
-[Quick Corn Stew](quick-corn-stew.md)
-
-[Mac-n-"cheese"](mac-n-cheese.md)
-
-[Potatoes and Pesto](potatoes-and-pesto.md)
-
-[Lebanese Lentils](lebanese-lentils.md)
-
-[Spicy Southwest Dressing](spicy-southwest-dressing.md)
-
-[Veggie Wraps](veggie-wraps.md)
-
-[Avocado-Chickpea Spread](avocado-chickpea-spread.md)
-
-[Chickpea Collard Wrap](chickpea-collard-wrap.md)
-
-[Tofu Meatballs](tofu-meatballs.md)
-
-[Sweet-potato Wraps](sweet-potato-wraps.md)
-
-[California Burritos](california-burritos.md)
-
-[Fiesta Stuffer Wrap](fiesta-stuffer-wrap.md)
-
-[Eggplant Fries](eggplant-fries.md)
-
-[Sweet Potato and Fennel Stew](sweet-potato-and-fennel-stew.md)
-
-[Chickpea-flour Omelet](chickpea-flour-omelet.md)
 
 [Cauliflower Spinach Mashed "Potatoes"](cauliflower-spinach-mashed-potatoes.md)
 
 [Sloppy James](sloppy-james.md)
 
-[Sweet-potato Lasagna](sweet-potato-lasagna.md)
+[Avocado-Chickpea Spread](avocado-chickpea-spread.md)
 
-[Chipotle Avocado and White Bean Wrap](chipotle-avocado-and-white-bean-wrap.md)
+[Eggplant Fries](eggplant-fries.md)
 
 [Buffalo Cauliflower](buffalo-cauliflower.md)
 
+## Sauces and Dressings
+
+[Quick Lemon Tahini Dressing](quick-lemon-tahini-dressing.md)
+
+[Chipotle Butternut Cheesy Sauce](chipotle-butternet-cheesy-sauce.md)
+
+[Ranch Dressing](ranch-dressing.md)
+
+[African Peanut Sauce](african-peanut-sauce.md)
+
+[Yummy Sauces](yummy-sauces.md)
+
+[Stir-fry Sauce](stir-fry-sauce.md)
+
+[Addictive Salad Dressings](addictive-salad-dressings.md)
+
+[Spicy Southwest Dressing](spicy-southwest-dressing.md)
+
+## Breakfast
+
+[Fruity Steel Cut Oats](fruity-steel-cut-oatmeal.md)
+
+[Granola](granola.md)
+
+[Cranberry Orange Muffins](cranberry-orange-muffins.md)
+
+[Chickpea-flour Omelet](chickpea-flour-omelet.md)
+
 [Avocado Toast](avocado-toast.md)
+
+## Breads
+
+[Cornbread](cornbread.md)
+
+[Easy Bread](easy-bread.md)
+
+[Two-ingredient Pizza Crust](two-ingredient-pizza-crust.md)
+
+## Deserts
+
+[Apple Pie Fries](apple-pie-fries.md)
+
+[Baked Apples with Cashew Cream](baked-apples-with-cashew-cream.md)
+
+## Beverages
+
+[Golden Milk Latte](golden-milk-latte.md)
+
