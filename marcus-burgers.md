@@ -1,4 +1,4 @@
-# Fuhrman-Marcus Burgers
+# Marcus Burgers
 
 This is work in progress. It's been challenging for me to find a vegan burger recipe I've liked. But of the 15 or so I've tried, I like [this one](https://www.amazon.com/Eat-Live-Quick-Easy-Cookbook/dp/0062684957/ref=sr_1_3?crid=18UHXMQVLMXU5&dchild=1&keywords=eat+to+live+cookbook&qid=1612807930&sprefix=eat+to+live+co%2Caps%2C158&sr=8-3)
 
