@@ -22,6 +22,8 @@ Okay, here are the recipes. Check back! I'll be adding more ...
 
 [Best Ever Chili](best-ever-chili.md)
 
+[Cornbread](cornbread.md)
+
 [Golden Milk Latte](golden-milk-latte.md)
 
 [Tofu Chicken](tofu-chicken.md)
