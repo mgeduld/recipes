@@ -18,6 +18,8 @@ If you want to learn why and how I got used to this diet, see [How a Vegas Magic
 
 Okay, here are the recipes. Check back! I'll be adding more ...
 
+[Marcus Burgers](marcus-burgers.md)
+
 [Best Ever Chili](best-ever-chili.md)
 
 [Golden Milk Latte](golden-milk-latte.md)
