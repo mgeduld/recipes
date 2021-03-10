@@ -84,6 +84,8 @@ Okay, here are the recipes. Check back! I'll be adding more ...
 
 [Tofu Chicken](tofu-chicken.md)
 
+[Veggie Crumble](veggie-crumble.md)
+
 [Cauliflower Taco Meat](cauliflower-taco-meat.md)
 
 [Cashew Butter](cashew-butter.md)
