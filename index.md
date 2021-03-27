@@ -110,6 +110,8 @@ Okay, here are the recipes. Check back! I'll be adding more ...
 
 [Buffalo Cauliflower](buffalo-cauliflower.md)
 
+[Fig Newtons](fig-newtons.md)
+
 ## Sauces and Dressings
 
 [Quick Lemon Tahini Dressing](quick-lemon-tahini-dressing.md)
