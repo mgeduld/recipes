@@ -78,6 +78,8 @@ Okay, here are the recipes. Check back! I'll be adding more ...
 
 [Quick Corn Stew](quick-corn-stew.md)
 
+[Zuppa Toscana Soup ("sausage" soup)](zuppa-toscana-soup.md)
+
 [Sweet Potato and Fennel Stew](sweet-potato-and-fennel-stew.md)
 
 ## Sides, Addatives, Snacks, etc.
