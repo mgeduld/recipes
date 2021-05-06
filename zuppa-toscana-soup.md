@@ -1,4 +1,4 @@
-# California Burritos 
+# Zuppa Toscana Soup ("sausage" soup)
 
 Source: https://plantbasedcookingshow.com/2020/12/12/vegan-zuppa-toscana-soup/
 
