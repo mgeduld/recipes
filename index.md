@@ -134,6 +134,8 @@ Okay, here are the recipes. Check back! I'll be adding more ...
 
 ## Breakfast
 
+[Eggy Tofu Scramble](eggy-tofu-scramble.md)
+
 [Fruity Steel Cut Oats](fruity-steel-cut-oatmeal.md)
 
 [Granola](granola.md)
