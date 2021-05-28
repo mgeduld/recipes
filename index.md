@@ -20,7 +20,9 @@ Okay, here are the recipes. Check back! I'll be adding more ...
 
 ## Main Courses
 
-[Marcus Burgers](marcus-burgers.md)
+[Marcus Burgers](marcus-burgers.md)quinoa-sushi.md
+
+[Quinoa Sushi](quinoa-sushi.md)
 
 [Spicy Thai Braised Kale and Tofu](spicy-thai-braised-kale-and-tofu.md)
 
