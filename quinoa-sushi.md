@@ -1,4 +1,4 @@
-# Quinos Sushi
+# Quinoa Sushi
 
 Source: https://www.youtube.com/watch?v=DDMx0YBFoEg&list=PLLh0oIdfj5KO6_5DiGY-G2ljgL4m-mqMn
 
