@@ -20,7 +20,7 @@ Okay, here are the recipes. Check back! I'll be adding more ...
 
 ## Main Courses
 
-[Marcus Burgers](marcus-burgers.md)quinoa-sushi.md
+[Marcus Burgers](marcus-burgers.md)
 
 [Quinoa Sushi](quinoa-sushi.md)
 
