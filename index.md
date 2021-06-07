@@ -86,6 +86,8 @@ Okay, here are the recipes. Check back! I'll be adding more ...
 
 [Sweet Potato and Fennel Stew](sweet-potato-and-fennel-stew.md)
 
+[Double Cornucopia](double-cornucopia.md)
+
 ## Sides, Addatives, Snacks, etc.
 
 [Tofu Chicken](tofu-chicken.md)
