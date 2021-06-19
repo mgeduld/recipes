@@ -5,19 +5,19 @@ Source: https://rainbowplantlife.com/the-best-vegan-breakfast-burritos/
 This is just one part of a super-ambitous breakfast-burrito recipe (see link above). The scramble tastes good on its own. 
 
 ## INGREDIENTS
-1 14- or 16-ounce (400/454g) block of firm tofu
-1/4 teaspoon ground turmeric
-½ teaspoon garlic powder
-½ teaspoon onion powder
-¼ teaspoon paprika
-½ teaspoon chipotle chile flakes (crushed chipotle chilies)
-½ teaspoon kala namak (AKA Indian black salt), plus more to finish
-Freshly cracked black pepper to taste
-1 generous tablespoon tahini
-2 tablespoons nutritional yeast
-½ cup plant-based milk of choice, such as oat, cashew, or almond
-1 tablespoon olive oil or cooking oil of choice
-Sea salt or kosher salt to taste
+* 1 14- or 16-ounce (400/454g) block of firm tofu
+* 1/4 teaspoon ground turmeric
+* ½ teaspoon garlic powder
+* ½ teaspoon onion powder
+* ¼ teaspoon paprika
+* ½ teaspoon chipotle chile flakes (crushed chipotle chilies)
+* ½ teaspoon kala namak (AKA Indian black salt), plus more to finish
+* Freshly cracked black pepper to taste
+* 1 generous tablespoon tahini
+* 2 tablespoons nutritional yeast
+* ½ cup plant-based milk of choice, such as oat, cashew, or almond
+* 1 tablespoon olive oil or cooking oil of choice
+* Sea salt or kosher salt to taste
 
 ## INSTRUCTIONS
 1. Drain the tofu. Line a cutting board with a few layers of paper towels or a clean dish towel. Place the tofu on top, then weigh it down with a heavy cookbook, or a large plate weighed down by a few cans of beans. Press the tofu for 15 minutes.
