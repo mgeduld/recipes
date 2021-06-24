@@ -122,6 +122,8 @@ Okay, here are the recipes. Check back! I'll be adding more ...
 
 [Fig Newtons](fig-newtons.md)
 
+[Roasted Brussels Sprouts](roasted-brussels-sprouts.md)
+
 ## Sauces and Dressings
 
 [Quick Lemon Tahini Dressing](quick-lemon-tahini-dressing.md)
