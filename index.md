@@ -76,6 +76,8 @@ Okay, here are the recipes. Check back! I'll be adding more ...
 
 [Best Ever Chili](best-ever-chili.md)
 
+[Cauliflower Potatoe Pea Soup](cauliflower-potatoe-pea-soup.md)
+
 [Cauliflower Bisque](cauliflower-bisque.md)
 
 [Chickpea Noodle Soup](chickpea-noodle-soup.md)
