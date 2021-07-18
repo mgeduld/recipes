@@ -94,6 +94,8 @@ Okay, here are the recipes. Check back! I'll be adding more ...
 
 ## Sides, Addatives, Snacks, etc.
 
+[Jalopeno Poppers](jalopeno-poppers.md)
+
 [Tofu Chicken](tofu-chicken.md)
 
 [Veggie Crumble](veggie-crumble.md)
