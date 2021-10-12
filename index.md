@@ -20,6 +20,8 @@ Okay, here are the recipes. Check back! I'll be adding more ...
 
 ## Main Courses
 
+[Burgers with Sauce](burgers-with-sauce.md)
+
 [Marcus Burgers](marcus-burgers.md)
 
 ["Meatloaf" Bites](meatloaf-bites.md)
