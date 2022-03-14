@@ -130,6 +130,8 @@ Okay, here are the recipes. Check back! I'll be adding more ...
 
 [Roasted Brussels Sprouts](roasted-brussels-sprouts.md)
 
+[Bakes Beans](baked-beans.md)
+
 ## Sauces and Dressings
 
 [Quick Lemon Tahini Dressing](quick-lemon-tahini-dressing.md)
