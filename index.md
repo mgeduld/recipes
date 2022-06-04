@@ -98,6 +98,8 @@ Okay, here are the recipes. Check back! I'll be adding more ...
 
 ## Sides, Addatives, Snacks, etc.
 
+[Cheezy Chickpeas](cheezy-chickpeas.md)
+
 [Jalopeno Poppers](jalopeno-poppers.md)
 
 [Tofu Chicken](tofu-chicken.md)
