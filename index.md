@@ -76,6 +76,8 @@ Okay, here are the recipes. Check back! I'll be adding more ...
 
 ## Soups and Stews
 
+[Split Pea Soup](split-pea-soup.md)
+
 [Best Ever Chili](best-ever-chili.md)
 
 [Lentil Chili](lentil-chili.md)
