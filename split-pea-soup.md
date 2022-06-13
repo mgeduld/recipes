@@ -22,7 +22,7 @@ Source: https://wellyourworld.com/blogs/youtube-videos/yellow-split-pea-soup
 
 ## Instructions (different from in the source, which are for the stovetop)
 
-1. Set Instant Pot to saute and cook vegetables (except the garlic) in a small amount of veggie stock until the onions are translucent. Don't a
+1. Set Instant Pot to saute and cook vegetables (except the garlic) in a small amount of veggie stock until the onions are translucent. 
 2. Add spice all other ingredients except for the pasta and pressure cook on high for 20 minutes.
 3. Cook the pasta as directed.
 4. When the pressure cooking is done, mix in the cooked pasta. 
