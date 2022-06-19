@@ -180,6 +180,8 @@ Okay, here are the recipes. Check back! I'll be adding more ...
 
 ## Deserts
 
+[Apple Pie](apple-pie.md)
+
 [Apple Pie Fries](apple-pie-fries.md)
 
 [Baked Apples with Cashew Cream](baked-apples-with-cashew-cream.md)
