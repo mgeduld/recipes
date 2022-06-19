@@ -78,6 +78,8 @@ Okay, here are the recipes. Check back! I'll be adding more ...
 
 [Split Pea Soup](split-pea-soup.md)
 
+[Ten Vegetable Soup](ten-vegetable-soup.md)
+
 [Best Ever Chili](best-ever-chili.md)
 
 [Lentil Chili](lentil-chili.md)
