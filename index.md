@@ -188,6 +188,8 @@ Okay, here are the recipes. Check back! I'll be adding more ...
 
 [Baked Apples with Cashew Cream](baked-apples-with-cashew-cream.md)
 
+[Strawberry Rhubarb Crumble](strawberry-rhubarb-crumble.md)
+
 ## Beverages
 
 [Golden Milk Latte](golden-milk-latte.md)
