@@ -74,6 +74,8 @@ Okay, here are the recipes. Check back! I'll be adding more ...
 
 [Tofu Meatballs](tofu-meatballs.md)
 
+[Buffalo Taquitos](buffalo-taquitos.md)
+
 ## Soups and Stews
 
 [Split Pea Soup](split-pea-soup.md)
