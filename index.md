@@ -142,6 +142,8 @@ Okay, here are the recipes. Check back! I'll be adding more ...
 
 [Bakes Beans](baked-beans.md)
 
+[Watermelon Jerky](watermelon-jerky.md)
+
 ## Sauces and Dressings
 
 [Quick Lemon Tahini Dressing](quick-lemon-tahini-dressing.md)
