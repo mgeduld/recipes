@@ -78,6 +78,8 @@ Okay, here are the recipes. Check back! I'll be adding more ...
 
 ## Soups and Stews
 
+[White chili](white-chili.md)
+
 [Split Pea Soup](split-pea-soup.md)
 
 [Ten Vegetable Soup](ten-vegetable-soup.md)
