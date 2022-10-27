@@ -24,6 +24,8 @@ Okay, here are the recipes. Check back! I'll be adding more ...
 
 [Marcus Burgers](marcus-burgers.md)
 
+[Burrito Bown](burrito-bowl.md)
+
 ["Meatloaf" Bites](meatloaf-bites.md)
 
 [Cauliflower Rice Tacos](cauliflower-rice-tacos.md)
