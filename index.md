@@ -54,6 +54,8 @@ Okay, here are the recipes. Check back! I'll be adding more ...
 
 [Chickpea "Tuna" Salad](chickpea-tuna-salad.md)
 
+[Instant Mac and Cheese](instant-mac-and-cheese.md)
+
 [Mac-n-"cheese"](mac-n-cheese.md)
 
 [Potatoes and Pesto](potatoes-and-pesto.md)
