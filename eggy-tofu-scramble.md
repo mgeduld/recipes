@@ -19,6 +19,14 @@ This is just one part of a super-ambitous breakfast-burrito recipe (see link abo
 * 1 tablespoon olive oil or cooking oil of choice
 * Sea salt or kosher salt to taste
 
+Additional ingredients from: https://wellyourworld.com/blogs/youtube-videos/tofu-scramble-sheet-pan
+
+- 1 15 oz can black, pinto, or white beans, drained and rinsed
+- ½ bell pepper, diced
+- 1 medium gold potato, diced small
+
+And alternative instructions: put on baking sheet in 400-degree oven for 20 minutes or until potatoes are cooked through.
+
 ## INSTRUCTIONS
 1. Drain the tofu. Line a cutting board with a few layers of paper towels or a clean dish towel. Place the tofu on top, then weigh it down with a heavy cookbook, or a large plate weighed down by a few cans of beans. Press the tofu for 15 minutes.
 2. Make the eggy sauce. In a bowl, whisk together the turmeric, garlic powder, onion powder, paprika, chipotle, kala namak, tahini, and nutritional yeast. Pour in the milk gradually and whisk until you have a nice sauce.
