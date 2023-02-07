@@ -1,3 +1,5 @@
+Source: https://wellyourworld.com/blogs/youtube-videos/lentil-squash-stew
+
 ## Stew
 - 3 cups green lentils
 - 2 10-12 oz. bags chopped frozen butternut squash
