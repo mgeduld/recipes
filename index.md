@@ -82,6 +82,8 @@ Okay, here are the recipes. Check back! I'll be adding more ...
 
 ## Soups and Stews
 
+[Lentil-Squash Stew](lentil-squash-stew.md)
+
 [White chili](white-chili.md)
 
 [Split Pea Soup](split-pea-soup.md)
