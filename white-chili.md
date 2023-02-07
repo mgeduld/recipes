@@ -1,24 +1,24 @@
 Source: https://krocksinthekitchen.com/2022/09/15/recipe-brians-white-no-chicken-chili-oil-free-plant-based-vegan/
 
 ## Ingredients
-– 1 large yellow onion, diced into 1/2-inch pieces (approx. 2 cups when diced)
-– 2 large Poblano peppers, seeds removed, diced into 1/4-inch pieces (approx. 2 cups when diced)
-– 1 Tbsp minced garlic
-– 1 Tbsp nutritional yeast
-– 1 tsp cumin
-– 1 tsp chili powder
-– 1 tsp Mexican oregano *see note
-– 1/2 tsp white pepper
-– 4 cups reduced sodium veggie stock (we use 4 tsp Better Than Bouillon mixed w/ 4 cups of hot water)
-– 3 x 15oz cans white cannellini beans (no salt added if possible), drained & rinsed
-– 1/2 cup frozen corn
-– 4oz Butler soy curls
-– 1 x 12oz block soft silken tofu
-– 1/2 cup plain, unsweetened almond milk
-– 1 Tbsp white miso paste
-– 2 Tbsp lime juice + extra for serving
+* 1 large yellow onion, diced into 1/2-inch pieces (approx. 2 cups when diced)
+* 2 large Poblano peppers, seeds removed, diced into 1/4-inch pieces (approx. 2 cups when diced)
+* 1 Tbsp minced garlic
+* 1 Tbsp nutritional yeast
+* 1 tsp cumin
+* 1 tsp chili powder
+* 1 tsp Mexican oregano *see note
+* 1/2 tsp white pepper
+* 4 cups reduced sodium veggie stock (we use 4 tsp Better Than Bouillon mixed w/ 4 cups of hot water)
+* 3 x 15oz cans white cannellini beans (no salt added if possible), drained & rinsed
+* 1/2 cup frozen corn
+* 4oz Butler soy curls
+* 1 x 12oz block soft silken tofu
+* 1/2 cup plain, unsweetened almond milk
+* 1 Tbsp white miso paste
+* 2 Tbsp lime juice + extra for serving
 
-- 3 tbs Tamari (my addition)
+* 3 tbs Tamari (my addition)
 
 ## Directions
 1. Heat a large pot or Dutch oven to medium-high. Add diced onions and Poblano peppers. Sauté until softened, stirring constantly.
