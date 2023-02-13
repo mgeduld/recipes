@@ -82,6 +82,8 @@ Okay, here are the recipes. Check back! I'll be adding more ...
 
 ## Soups and Stews
 
+[Pepper-vegetable soup](pepper-vegetable-soup.md)
+
 [Lentil-Squash Stew](lentil-squash-stew.md)
 
 [White chili](white-chili.md)
