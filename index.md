@@ -81,6 +81,7 @@ Okay, here are the recipes. Check back! I'll be adding more ...
 [Buffalo Taquitos](buffalo-taquitos.md)
 
 ## Soups and Stews
+[Universal Soup](universal-soup.md)
 
 [Pepper-vegetable soup](pepper-vegetable-soup.md)
 
