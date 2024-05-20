@@ -173,6 +173,8 @@ Okay, here are the recipes. Check back! I'll be adding more ...
 
 [Spicy Southwest Dressing](spicy-southwest-dressing.md)
 
+[Peanut Sauce](peanut-sauce.md)
+
 ## Breakfast
 
 [Eggy Tofu Scramble](eggy-tofu-scramble.md)
