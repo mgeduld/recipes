@@ -157,6 +157,8 @@ Okay, here are the recipes. Check back! I'll be adding more ...
 
 ## Sauces and Dressings
 
+[Grilled Cheese Sauce](grilled-cheese-sauce.md)
+
 [Quick Lemon Tahini Dressing](quick-lemon-tahini-dressing.md)
 
 [Chipotle Butternut Cheesy Sauce](chipotle-butternet-cheesy-sauce.md)
