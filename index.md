@@ -209,6 +209,9 @@ Okay, here are the recipes. Check back! I'll be adding more ...
 
 [Strawberry Rhubarb Crumble](strawberry-rhubarb-crumble.md)
 
+## Condiments
+[Salt substitute](salt-substitute.md)
+
 ## Beverages
 
 [Golden Milk Latte](golden-milk-latte.md)
