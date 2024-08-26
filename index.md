@@ -117,6 +117,8 @@ Okay, here are the recipes. Check back! I'll be adding more ...
 
 [Panang Curry](panang-curry.md)
 
+[Lentil Dahl Soup](lentil-dahl-soup.md)
+
 ## Sides, Addatives, Snacks, etc.
 
 [Cheezy Chickpeas](cheezy-chickpeas.md)
