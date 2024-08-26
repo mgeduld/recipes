@@ -113,6 +113,8 @@ Okay, here are the recipes. Check back! I'll be adding more ...
 
 [Double Cornucopia](double-cornucopia.md)
 
+[Panang Curry](panang-curry.md)
+
 ## Sides, Addatives, Snacks, etc.
 
 [Cheezy Chickpeas](cheezy-chickpeas.md)
