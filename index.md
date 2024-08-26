@@ -80,6 +80,8 @@ Okay, here are the recipes. Check back! I'll be adding more ...
 
 [Buffalo Taquitos](buffalo-taquitos.md)
 
+[Viral Butter Beans](viral-butter-beans.md)
+
 ## Soups and Stews
 [Universal Soup](universal-soup.md)
 
