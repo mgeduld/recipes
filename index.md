@@ -161,6 +161,8 @@ Okay, here are the recipes. Check back! I'll be adding more ...
 
 [Watermelon Jerky](watermelon-jerky.md)
 
+[Whipped Tofu Ricotta](whipped-tofu-ricotta.md)
+
 ## Sauces and Dressings
 
 [Grilled Cheese Sauce](grilled-cheese-sauce.md)
