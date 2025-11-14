@@ -83,6 +83,8 @@ Okay, here are the recipes. Check back! I'll be adding more ...
 [Viral Butter Beans](viral-butter-beans.md)
 
 ## Soups and Stews
+[Vegetable Soup](vegetable-soup.md)
+
 [Universal Soup](universal-soup.md)
 
 [Pepper-vegetable soup](pepper-vegetable-soup.md)
