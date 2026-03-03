@@ -20,6 +20,8 @@ Okay, here are the recipes. Check back! I'll be adding more ...
 
 ## Main Courses
 
+[Tuna Casserole](tuna-casserole.md)
+
 [Burgers with Sauce](burgers-with-sauce.md)
 
 [Marcus Burgers](marcus-burgers.md)
