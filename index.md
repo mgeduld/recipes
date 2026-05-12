@@ -19,6 +19,7 @@ If you want to learn why and how I got used to this diet, see [How a Vegas Magic
 Okay, here are the recipes. Check back! I'll be adding more ...
 
 ## Main Courses
+[Smoky Beans](smoky-beans.md)
 
 [Tuna Casserole](tuna-casserole.md)
 
