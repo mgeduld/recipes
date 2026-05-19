@@ -178,6 +178,8 @@ Okay, here are the recipes. Check back! I'll be adding more ...
 
 [Ranch Dressing](ranch-dressing.md)
 
+[Ranch Dressing 2](ranch-dressing2.md)
+
 [African Peanut Sauce](african-peanut-sauce.md)
 
 [Yummy Sauces](yummy-sauces.md)
